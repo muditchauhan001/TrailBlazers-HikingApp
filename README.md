@@ -31,5 +31,6 @@ bash
 Copy code
  
 -- npm start
+
 Open Your Browser:
 Visit http://localhost:3000 to explore the website locally.
