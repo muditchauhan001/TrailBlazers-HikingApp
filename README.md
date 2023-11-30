@@ -23,11 +23,13 @@ Install Dependencies:
 
 bash
 Copy code
-npm install
+ -- npm install
+
 Start the Development Server:
 
 bash
 Copy code
-npm start
+ 
+-- npm start
 Open Your Browser:
 Visit http://localhost:3000 to explore the website locally.
