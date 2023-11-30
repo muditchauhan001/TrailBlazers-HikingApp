@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/trailblazers-trekking.git
+git clone https://github.com/muditchauhan001/TrailBlazers-HikingApp
 cd trailblazers-trekking
 Install Dependencies:
 
